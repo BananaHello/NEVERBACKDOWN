@@ -12,5 +12,11 @@
 - Ordered List
 - Unordered List
 
-~print ("Hello World")~
+`print ("Hello World")`
+
+---
+
+[Source](https://www.markdownguide.org/cheat-sheet)
+
+Image[cheat-sheet]("C:\Users\erwin\Desktop\other\github\NEVERBACKDOWN\Screenshot 2023-09-16 113905.png")
 
