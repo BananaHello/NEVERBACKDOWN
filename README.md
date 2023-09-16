@@ -18,5 +18,5 @@
 
 [Source](https://www.markdownguide.org/cheat-sheet)
 
-![cheat-sheet]("Screenshot 2023-09-16 113905.png")
+![cheat-sheet](Screenshot 2023-09-16 113905.png)
 
