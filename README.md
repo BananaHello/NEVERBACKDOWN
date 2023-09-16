@@ -1,6 +1,7 @@
 # NEVERBACKDOWN
-Class practice
+## Class practice 
 
-MEOW
+> **GET READY FOR EPIC SYNTAX**
+*-Mayank Malik 2023*
 
-EHEHEHEHA
+
