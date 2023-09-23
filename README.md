@@ -55,5 +55,5 @@ HAHA :joy:
 
 Highlight ==DONT FORGET THE ADD THE SEMICOLON IN JAVASCRIPT==
 
-Sucrose C~12~H~22~O~11~
+Sucrose     C~12 H~22 O~11
 
