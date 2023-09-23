@@ -32,3 +32,12 @@
     "Member 3": "Arin" 
 }
 ```
+
+We reserve the right to refuse service to anyone.
+[^1]
+
+[^1]: We also reserve the right to give service to anyone.
+
+### NEVERGIVEUP {}
+
+<h3 id="customi-id">My Great Heading</h3>
