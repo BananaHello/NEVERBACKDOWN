@@ -57,6 +57,6 @@ Highlight ==DONT FORGET THE ADD THE SEMICOLON IN JAVASCRIPT==
 
 Sucrose   C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>
 
-f(x) = e<super>x
+f(x) = e<sup>x
 
-f'(x) = e<super>x
+f'(x) = e<sup>x
