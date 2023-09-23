@@ -41,3 +41,16 @@ We reserve the right to refuse service to anyone.
 ### NEVERGIVEUP {}
 
 <h3 id="customi-id">My Great Heading</h3>
+
+Copulate
+: to have sexual intercourse
+
+~~ALWAYSGIVEUP~~
+
+- [x] List your givens
+- [x] Find the unknown
+- [x] Find the kinematic equation required
+
+HAHA :joy:
+
+==DONT FORGET THE ADD THE SEMICOLON==.
